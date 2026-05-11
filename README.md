@@ -68,3 +68,7 @@
 - больше всего продаж приходится на США;
 - 48.7% покупателей имеют карту лояльности;
 - покупатели предпочитают кофе светлой обжарки.
+
+
+
+Thanks @mochen862 for this nice tutorial: https://www.youtube.com/watch?v=m13o5aqeCbM&list=WL&index=9

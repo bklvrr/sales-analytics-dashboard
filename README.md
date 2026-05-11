@@ -4,7 +4,7 @@
 
 Данный проект посвящён анализу данных о продажах кофейных зерен и разработке интерактивного бизнес-дашборда в Microsoft Excel.
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ---
 
